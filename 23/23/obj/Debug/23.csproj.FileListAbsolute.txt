@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\bin\Debug\23.exe.config
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\bin\Debug\23.exe
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\bin\Debug\23.pdb
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\obj\Debug\23.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\obj\Debug\23.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\obj\Debug\23.exe
+C:\Users\LENOVO\Desktop\Sectia 3\23\23\obj\Debug\23.pdb
