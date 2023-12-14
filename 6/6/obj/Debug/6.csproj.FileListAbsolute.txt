@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\bin\Debug\6.exe.config
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\bin\Debug\6.exe
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\bin\Debug\6.pdb
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\obj\Debug\6.exe
+C:\Users\LENOVO\Desktop\Sectia 3\6\6\obj\Debug\6.pdb
